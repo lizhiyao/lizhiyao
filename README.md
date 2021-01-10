@@ -1,16 +1,17 @@
-### Hi there 👋
+# 很高兴遇见你。🌞
 
-<!--
-**lizhiyao/lizhiyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我叫志遥，90 后，狮子座。
 
-Here are some ideas to get you started:
+目前我在一家医疗健康领域的互联网公司丁香园工作，在负责丁香医生的前端技术团队。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+热爱跳舞（Urban，入门水平）。❤️
+
+希望能遇到同在互联网行业且热爱舞蹈的人，然后一起做些有趣的「互联网 + 舞蹈」的事情。
+
+是一个从 180 斤减到 136 斤的胖子，目前仍在减肥中。
+
+希望我们可以成为朋友。🍻
+
+👇 我的个人公众号，欢迎关注。
+
+<img src="../images/dxy-dance-qrcode.jpg" width="300" heigth="300" />
