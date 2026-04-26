@@ -6,7 +6,7 @@
 
 ### 很高兴遇见你。🌞
 
-我叫李志遥（至尧）。90 后，狮子座。
+我叫李志遥。90 后，狮子座。
 
 希望成为软件工程和街舞 hiphop 艺术家。最近买了一把吉他。
 
@@ -24,7 +24,7 @@
 
 ### Nice to meet you. 🌞
 
-I'm Li Zhiyao (Zhiyao). 90s kid, Leo.
+I'm Li Zhiyao. 90s kid, Leo.
 
 Aspiring to be an artist of both software engineering and street dance hiphop. Recently bought a guitar.
 
