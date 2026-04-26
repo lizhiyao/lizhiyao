@@ -6,9 +6,9 @@
 
 ### 很高兴遇见你。🌞
 
-我叫李志遥（至尧）。90后，狮子座，ENFJ/ENTJ。
+我叫李志遥（至尧）。90 后，狮子座。
 
-是一名软件工程师。街舞 hiphop 爱好者。
+希望成为软件工程和街舞 hiphop 艺术家。最近买了一把吉他。
 
 希望我们可以成为朋友。🍻
 
@@ -24,14 +24,10 @@
 
 ### Nice to meet you. 🌞
 
-I'm Li Zhiyao (Zhiyao). 90s kid, Leo, ENFJ/ENTJ.
+I'm Li Zhiyao (Zhiyao). 90s kid, Leo.
 
-A software engineer. Street dance / hiphop enthusiast.
+Aspiring to be an artist of both software engineering and street dance hiphop. Recently bought a guitar.
 
 Hope we can be friends. 🍻
-
-👇 My personal WeChat account — feel free to follow.
-
-<img src="./images/dxy-dance-qrcode.jpg" width="300" height="300" />
 
 <sub>[⬆ 返回中文](#zh)</sub>
