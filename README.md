@@ -10,7 +10,7 @@
 
 希望我们可以成为朋友。🍻
 
-<details>
+<details open>
 <summary>👇 我的个人公众号，欢迎关注</summary>
 
 <br>
