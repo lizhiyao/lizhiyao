@@ -1,7 +1,5 @@
 **🌐 [中文](#zh) ・ [English](#en)**
 
----
-
 <a id="zh"></a>
 
 ### 很高兴遇见你。🌞
@@ -12,13 +10,16 @@
 
 希望我们可以成为朋友。🍻
 
-👇 我的个人公众号，欢迎关注。
+<details>
+<summary>👇 我的个人公众号，欢迎关注</summary>
 
-<img src="./images/dxy-dance-qrcode.jpg" width="300" height="300" />
+<br>
+
+<img src="./images/dxy-dance-qrcode.jpg" width="220" height="220" />
+
+</details>
 
 <sub>[⬇ Read in English](#en)</sub>
-
----
 
 <a id="en"></a>
 
