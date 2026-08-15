@@ -6,7 +6,7 @@
 
 我叫李志遥。90 后，狮子座。
 
-希望成为软件工程和街舞 hiphop 艺术家。最近买了一把吉他。
+希望成为软件工程和街舞 hiphop 艺术家。
 
 希望我们可以成为朋友。🍻
 
@@ -27,7 +27,7 @@
 
 I'm Li Zhiyao. 90s kid, Leo.
 
-Aspiring to be an artist of both software engineering and street dance hiphop. Recently bought a guitar.
+Aspiring to be an artist of both software engineering and street dance hiphop. 
 
 Hope we can be friends. 🍻
 
